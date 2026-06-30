@@ -2,7 +2,7 @@
 
 # 🌿 HerbalRx
 
-### AI-Powered Medicinal Plant Identification & Herbal Remedy Recommendation System
+### Herbal RX: Herbal Remedy Extraction and Recommendation Using Deep Learning and Image Processing
 
 Identify medicinal plants using Deep Learning and TensorFlow Lite, explore their medicinal properties, search remedies by symptoms, and securely maintain prediction history using Firebase.
 
@@ -26,7 +26,6 @@ The application also supports searching medicinal plants by plant name or sympto
 
 # 🚀 Highlights
 
-- 🌿 AI-powered medicinal plant identification
 - 📷 Camera and Gallery image support
 - 🔍 Search medicinal plants by plant name
 - ❤️ Search medicinal plants by symptoms
@@ -51,7 +50,7 @@ The application also supports searching medicinal plants by plant name or sympto
 | ❤️ Symptom Search | Discover plants based on symptoms |
 | 📚 Plant Details | Scientific name, medicinal uses, treatments and preparation methods |
 | 🔊 Voice Assistant | Reads prediction and plant details using Text-to-Speech |
-| 📈 Confidence Score | Displays AI prediction confidence |
+| 📈 Confidence Score | Displays prediction confidence |
 | ☁ Firebase | Authentication and prediction history |
 | 📱 Flutter UI | Modern, responsive and user-friendly interface |
 
@@ -244,14 +243,9 @@ flutter run
 
 # 🔮 Future Enhancements
 
-- 🌸 Support identification using flowers, stems, bark and fruits
-- 🎥 Real-time camera detection with live prediction
-- 🧠 Explainable AI using Grad-CAM visualization
-- 🌍 Multi-language support
-- 🤖 AI chatbot for medicinal guidance
-- ☁ Cloud model updates
-- 📍 GPS-based medicinal plant discovery
-- 👥 Community-contributed medicinal plant database
+- integration of Explainable AI features such as Grad-CAM or visual heatmaps. 
+- expanding the model to recognize various plant parts such as flowers, stems, bark, and fruits 
+- live camera-based detection with bounding boxes
 
 ---
 
@@ -259,7 +253,7 @@ flutter run
 
 ## Harishit
 
-B.Tech Student | Flutter Developer | AI & Machine Learning Enthusiast
+B.Tech Student |AI & Machine Learning Enthusiast
 
 ### Connect with me
 

@@ -1,0 +1,824 @@
+[
+  {
+    "Common Name": "Aloevera",
+    "Scientific Name": "Aloe vera (L.) Burm.f.",
+    "Uses": "Topical: soothes burns, minor wounds, sunburns; Oral: inner-leaf gel/juice used as a demulcent; Latex: stimulant laxative (short-term only)",
+    "Treats": "Burns, sunburns, constipation, skin irritation, ulcers",
+    "Preparation Methods": [
+      "Fresh gel — Select mature leaves, wash, drain latex, scoop inner gel, blend, store",
+      "Juice — Extract inner gel, rinse latex, blend with water/fruit juice",
+      "Latex (warning: not for home use)",
+      "Topical salve — Mix aloe gel with melted beeswax & carrier oil"
+    ],
+    "Safety Warnings": "Avoid ingesting latex (yellow sap). Contraindicated in pregnancy, children, and with certain medications. Patch test before topical use.",
+    "References": "WHO Monographs; PubMed; WebMD Herbal Directory"
+  },
+  {
+    "Common Name": "Amla",
+    "Scientific Name": "Phyllanthus emblica (syn. Emblica officinalis)",
+    "Uses": "Antiscorbutic, rejuvenator, digestion aid, asthma, urinary disorders, skin & hair health (rich in vitamin C).",
+    "Treats": "Scurvy, indigestion, asthma, diabetes, hair loss",
+    "Preparation Methods": [
+      "Fresh juice — Crush 2–3 ripe fruits, soak overnight, strain, drink with honey & black pepper",
+      "Triphala powder — Dry fruits, roast lightly, grind, consume with warm water",
+      "Preserve — Fruits canned in sugar/glycerol solution",
+      "Amla oil — Steep pulp in sesame oil"
+    ],
+    "Safety Warnings": "Generally safe; may increase urine output and reduce blood clotting. Avoid high doses before surgery. Diabetics monitor sugar levels.",
+    "References": "Ayurvedic sources; PubMed; WebMD"
+  },
+  {
+    "Common Name": "Amruthavalli (Guduchi/Giloy)",
+    "Scientific Name": "Tinospora cordifolia",
+    "Uses": "Immunomodulator, antipyretic, antidiabetic, hepatoprotective, anti-inflammatory; used for fever, diabetes, liver disorders, arthritis.",
+    "Treats": "Fever, diabetes, jaundice, arthritis, liver disorders",
+    "Preparation Methods": [
+      "Decoction — Boil 10–20g stem in 200ml water, reduce to 50–100ml, drink",
+      "Fresh juice (satva) — Extract stem juice, take raw (½–1 tsp)",
+      "Powder — Mix 1 tsp with honey or ghee",
+      "Seasonal immunity — 1 tsp powder with ginger juice"
+    ],
+    "Safety Warnings": "Monitor blood sugar if on antidiabetics; avoid excess (possible liver injury). Use cautiously in pregnancy and autoimmune conditions.",
+    "References": "Ayurvedic pharmacopeia; clinical reviews"
+  },
+  {
+    "Common Name": "Arali (Indian Oleander)",
+    "Scientific Name": "Nerium indicum (syn. Nerium oleander)",
+    "Uses": "External use for conjunctivitis, ulcers, skin lesions, joint pain. NOT for internal use.",
+    "Treats": "Skin diseases, ulcers, joint pain (external use only)",
+    "Preparation Methods": [
+      "Leaf paste — Grind leaves, apply to skin lesions/joints",
+      "Juice drops — Dilute juice with honey/water, use for gargle or eye drops (traditional, not recommended)"
+    ],
+    "Safety Warnings": "Highly toxic internally (cardiac glycosides). Never ingest. External use only under expert guidance. Keep away from children.",
+    "References": "Ayurvedic texts; toxicology reports"
+  },
+  {
+    "Common Name": "Asthma weed",
+    "Scientific Name": "Euphorbia hirta",
+    "Uses": "Respiratory aid (asthma, bronchitis, cough), GI issues (amoebic dysentery, diarrhea), antipyretic, wound healing.",
+    "Treats": "Asthma, bronchitis, diarrhea, dysentery, fever",
+    "Preparation Methods": [
+      "Decoction — Boil 10–20g fresh aerial parts in 200ml water, strain, drink",
+      "Infusion/Tea — Steep crushed leaves in hot water, drink for fever/asthma",
+      "Topical — Apply sap/leaf juice to warts, rashes (caution: irritant)"
+    ],
+    "Safety Warnings": "Sap is toxic and irritant. Avoid contact with eyes/skin. Overdose may cause nausea/diarrhea. Not for pregnancy or prolonged use.",
+    "References": "Ethnobotanical monographs; toxicology alerts"
+  },
+  {
+    "Common Name": "Badipala",
+    "Scientific Name": "Wrightia tinctoria",
+    "Uses": "Used in traditional medicine for digestive problems, skin diseases, and fevers.Chewing fresh leaves can help relieve toothache.",
+    "Treats": "psoriasis, eczema, diarrhea, dysentery, stomach problems, fever. ",
+    "Preparation Methods": [
+      "No documented preparation found"
+    ],
+    "Safety Warnings": "Pregnant and nursing women are advised to avoid using it unless prescribed by a doctor.The toxins can affect the heart and cause hemolysis (destruction of red blood cells).Ingestion can cause severe vomiting, diarrhea, abdominal pain, and dehydration.",
+    "References": "N/A"
+  },
+  {
+    "Common Name": "Balloon Vine",
+    "Scientific Name": "Cardiospermum halicacabum",
+    "Uses": "Anti-inflammatory, analgesic; used for rheumatism, neuralgia, skin issues, earache, fever.",
+    "Treats": "Rheumatism, neuralgia, skin diseases, fever, earache",
+    "Preparation Methods": [
+      "Leaf poultice — Crush leaves, apply warm on joints/skin lesions",
+      "Decoction — Boil dried roots/seeds, drink for rheumatism/fever",
+      "Ear drops — Filter leaf juice, instill a drop in ear",
+      "Herbal tea — Steep dried leaves in hot water for bronchitis/allergy"
+    ],
+    "Safety Warnings": "Generally safe. Sap mildly irritant. Avoid around eyes. Use with care in allergic individuals.",
+    "References": "Ethnobotanical literature; clinical reviews"
+  },
+  {
+    "Common Name": "Bamboo",
+    "Scientific Name": "Bambusa arundinacea (syn. Bambusa bambos)",
+    "Uses": "Used for cough, asthma, fever, digestive issues; skin healing; rich in silica for hair, bones, skin.",
+    "Treats": "Cough, asthma, fever, wounds, bone weakness",
+    "Preparation Methods": [
+      "Decoction — Boil bamboo shavings (2–5g) in water, drink",
+      "Paste — Mix shoot/powder with honey/ghee, apply on eczema/wounds",
+      "Food — Cook shoots (after thorough boiling)",
+      "Oil — Bamboo oil applied topically for arthritis"
+    ],
+    "Safety Warnings": "Raw shoots contain cyanogenic glycosides — must boil & discard water. Avoid in early pregnancy. Overuse may dry skin.",
+    "References": "Ayurvedic monographs; food safety sources"
+  },
+  {
+    "Common Name": "Beans",
+    "Scientific Name": "Phaseolus vulgaris (common bean)",
+    "Uses": "Nutritional food; benefits digestion, heart health, blood sugar; folk diuretic use.",
+    "Treats": "Diabetes, high cholesterol, constipation, nutritional deficiency",
+    "Preparation Methods": [
+      "Soak beans overnight, boil to make soup/porridge",
+      "Sprouted beans eaten raw",
+      "Boiled kidney beans decoction for diabetics (folk use)"
+    ],
+    "Safety Warnings": "Raw/undercooked beans toxic (phytohaemagglutinin). Must boil ≥10 min. May cause bloating. Use caution in kidney issues/allergies.",
+    "References": "Nutritional reviews; food safety sources"
+  },
+  {
+    "Common Name": "Betel",
+    "Scientific Name": "Piper betle",
+    "Uses": "Stimulant, digestive aid, antiseptic; used for cough, throat pain, asthma, joint pain, wounds.",
+    "Treats": "Cough, sore throat, asthma, wounds, indigestion",
+    "Preparation Methods": [
+      "Chewing — Fresh cleaned leaf after meals",
+      "Juice — Crush 2–4 leaves, mix with honey/water, gargle or use as ear drops",
+      "Poultice — Warm crushed leaves with oil, apply on joints",
+      "Eye wash — Leaf juice with honey (traditional)"
+    ],
+    "Safety Warnings": "Avoid chewing with areca/tobacco (cancer risk). Excess causes oral irritation. Use sparingly in pregnancy.",
+    "References": "Ayurvedic sources; monographs"
+  },
+  {
+    "Common Name": "Brahmi",
+    "Scientific Name": "Bacopa monnieri",
+    "Uses": "Cognitive enhancer, memory tonic, anxiolytic, epilepsy management, antioxidant.",
+    "Treats": "Memory loss, anxiety, epilepsy, insomnia, stress",
+    "Preparation Methods": [
+      "Decoction — Boil 5–10g leaves in 200ml water, filter, drink",
+      "Powder — Dry leaves, grind, take ½–1 tsp with water/honey",
+      "Oil — Brahmi oil applied on scalp",
+      "Milk syrup — Simmer leaves in milk with sugar"
+    ],
+    "Safety Warnings": "Generally safe. May cause mild GI upset. Avoid on empty stomach. Use cautiously in pregnancy/lactation. May interact with sedatives.",
+    "References": "Clinical reviews; StatPearls"
+  },
+  {
+    "Common Name": "Bhringraj",
+    "Scientific Name": "Eclipta alba",
+    "Uses": "Liver tonic, hair tonic, promotes hair growth and prevents graying",
+    "Treats": "Hair thinning, scalp disorders, liver disorders",
+    "Preparation Methods": [
+      "Infuse leaves in carrier oil for hair applications",
+      "Prepare powder or decoction for ingestion"
+    ],
+    "Safety Warnings": "Generally safe in food amounts; high doses or long-term use may be hepatotoxic",
+    "References": ["WHO Monographs", "PubMed", "Ayurvedic texts"]
+  },
+  {
+    "Common Name": "Caricature plant",
+    "Scientific Name": "Graptophyllum pictum",
+    "Uses": "Wound healing, inflammation, ornamental",
+    "Treats": "Skin wounds, abscesses, hemorrhoids, fevers, menstrual cramps",
+    "Preparation Methods": [
+      "Crush leaves and apply topically as poultice",
+      "Leaf decoctions taken orally for systemic effects"
+    ],
+    "Safety Warnings": "No major toxicity reported",
+    "References": ["Ethnobotanical literature", "PubMed"]
+  },
+  {
+    "Common Name": "Castor",
+    "Scientific Name": "Ricinus communis",
+    "Uses": "Source of castor oil for medicinal and cosmetic use; strong laxative",
+    "Treats": "Constipation, dandruff, eczema",
+    "Preparation Methods": [
+      "Extract oil from roasted seeds",
+      "Leaves/seeds used in decoctions or poultices (with caution)"
+    ],
+    "Safety Warnings": "Seeds highly toxic; avoid ingestion; not for use in pregnancy",
+    "References": ["WHO Herbal Monographs", "PubMed"]
+  },
+  {
+    "Common Name": "Catharanthus",
+    "Scientific Name": "Catharanthus roseus",
+    "Uses": "Diuretic, antidiabetic, ornamental; source of anticancer alkaloids",
+    "Treats": "Diabetes, hypertension, asthma, infections, digestive issues, cancers",
+    "Preparation Methods": [
+      "Leaf infusions or decoctions taken internally",
+      "Leaf/flower extracts applied topically as antiseptic"
+    ],
+    "Safety Warnings": "All parts toxic if ingested raw; use under expert guidance",
+    "References": ["Ayurvedic pharmacopeia", "PubMed"]
+  },
+  {
+    "Common Name": "Chilly",
+    "Scientific Name": "Capsicum annuum",
+    "Uses": "Culinary spice; analgesic and anti-inflammatory",
+    "Treats": "Pain relief (arthritis, neuralgia), respiratory congestion, digestive issues",
+    "Preparation Methods": [
+      "Consumed fresh, dried, or powdered",
+      "Capsaicin cream applied topically for pain relief"
+    ],
+    "Safety Warnings": "Can irritate skin and mucous membranes; avoid eyes; excessive ingestion may cause gastric distress",
+    "References": ["PubMed", "Plants for a Future"]
+  },
+  {
+    "Common Name": "Citron lime (Herelika)",
+    "Scientific Name": "Citrus medica",
+    "Uses": "Flavoring; rich in vitamin C; traditional remedies",
+    "Treats": "Nausea, indigestion, coughs, colds",
+    "Preparation Methods": [
+      "Rind candied or zested",
+      "Juice and peels made into teas or infusions"
+    ],
+    "Safety Warnings": "Generally safe; citric acid may cause heartburn in sensitive individuals",
+    "References": ["WebMD", "Ayurvedic texts"]
+  },
+  {
+    "Common Name": "Coffee",
+    "Scientific Name": "Coffea arabica",
+    "Uses": "Stimulant beverage; leaves used for headache and fever",
+    "Treats": "Headache, fatigue, stomach aches, cough, anemia",
+    "Preparation Methods": [
+      "Roasted beans brewed into coffee",
+      "Leaves brewed as herbal tea or decoction"
+    ],
+    "Safety Warnings": "Excessive caffeine may cause insomnia, anxiety, palpitations, gastrointestinal upset",
+    "References": ["PubMed", "WHO Monographs"]
+  },
+  {
+    "Common Name": "Common rue (Naagdalli)",
+    "Scientific Name": "Ruta graveolens",
+    "Uses": "Aromatic herb; digestive stimulant, heart/circulation support",
+    "Treats": "Headache, digestive cramps, menstrual pain, arthritis, nervous disorders",
+    "Preparation Methods": [
+      "Leaf infusions or tinctures from dried/fresh leaves"
+    ],
+    "Safety Warnings": "Toxic in medicinal amounts; contraindicated in pregnancy",
+    "References": ["Ayurvedic texts", "PubMed"]
+  },
+  {
+    "Common Name": "Coriander",
+    "Scientific Name": "Coriandrum sativum",
+    "Uses": "Culinary herb; antioxidants and essential oils",
+    "Treats": "Heart disease, diabetes, anxiety, epilepsy",
+    "Preparation Methods": [
+      "Leaves used fresh or brewed into tea",
+      "Seeds ground into spice or made into decoctions"
+    ],
+    "Safety Warnings": "Generally safe; rare allergic reactions possible",
+    "References": ["Plants for a Future", "PubMed"]
+  },
+  {
+    "Common Name": "Curry",
+    "Scientific Name": "Murraya koenigii",
+    "Uses": "Culinary herb; improves appetite and digestion",
+    "Treats": "Nausea, indigestion, diarrhea, skin wounds",
+    "Preparation Methods": [
+      "Fresh leaves used in cooking",
+      "Leaf decoction or paste applied or taken internally"
+    ],
+    "Safety Warnings": "Generally safe",
+    "References": ["Ayurvedic texts", "PubMed"]
+  },
+  {
+    "Common Name": "Drumstick",
+    "Scientific Name": "Moringa oleifera",
+    "Uses": "Nutrient-rich; diuretic, laxative, antibiotic",
+    "Treats": "Anemia, malnutrition, inflammation, asthma, diabetes, infections",
+    "Preparation Methods": [
+      "Pods cooked in food",
+      "Leaves/pods made into soups, powders, or teas"
+    ],
+    "Safety Warnings": "Generally safe in food amounts; roots and bark contain toxins",
+    "References": ["WHO Herbal Monographs", "PubMed"]
+  },
+  {
+    "Common Name": "Ekka",
+    "Scientific Name": "Calotropis gigantea",
+    "Uses": "Folk medicine for skin disorders, respiratory issues, analgesic",
+    "Treats": "Wounds, cough, asthma, pain relief",
+    "Preparation Methods": [
+      "Latex or leaf poultices applied topically (with extreme caution)",
+      "Leaf decoction used traditionally for coughs"
+    ],
+    "Safety Warnings": "Latex highly toxic; ingestion can be fatal; external use only under guidance",
+    "References": ["Ayurvedic texts", "PubMed"]
+  },
+  {
+    "Common Name": "Eucalyptus",
+    "Scientific Name": "Eucalyptus globulus",
+    "Uses": "Source of eucalyptus oil; respiratory relief",
+    "Treats": "Coughs, colds, bronchitis, sinusitis",
+    "Preparation Methods": [
+      "Oil inhalation (steam vapors, chest rubs)",
+      "Leaves brewed in tea"
+    ],
+    "Safety Warnings": "Oil toxic if ingested; can cause serious symptoms",
+    "References": ["WHO Herbal Monographs", "PubMed"]
+  },
+  {
+    "Common Name": "Ganigale",
+    "Scientific Name": "Celosia argentea",
+    "Uses": "Fever, respiratory disorders, digestive aid",
+    "Treats": "Cough, cold, fever, inflammation",
+    "Preparation Methods": [
+      "Leaf decoction or infusion taken orally",
+      "Leaf paste applied topically for wounds"
+    ],
+    "Safety Warnings": "Generally safe; avoid high doses",
+    "References": ["Ayurvedic texts", "PubMed"]
+  },
+  {
+    "Common Name": "Ganike",
+    "Scientific Name": "Leucas aspera",
+    "Uses": "Respiratory and skin disorders",
+    "Treats": "Cough, cold, fever, asthma, skin rashes",
+    "Preparation Methods": [
+      "Leaf decoction taken orally",
+      "Leaf juice applied topically"
+    ],
+    "Safety Warnings": "Generally safe; avoid excessive ingestion",
+    "References": ["Ayurvedic texts", "PubMed"]
+  },
+  {
+    "Common Name": "Gasagase",
+    "Scientific Name": "Papaver somniferum seeds only",
+    "Uses": "Culinary and folk medicine (digestive aid)",
+    "Treats": "Mild digestive issues, nutritional supplement",
+    "Preparation Methods": [
+      "Seeds used in cooking or ground into powder"
+    ],
+    "Safety Warnings": "Do not ingest latex; seeds safe in culinary use",
+    "References": ["Ayurvedic texts", "PubMed"]
+  },
+  {
+    "Common Name": "Ginger",
+    "Scientific Name": "Zingiber officinale",
+    "Uses": "Spice; aids digestion; antiemetic properties",
+    "Treats": "Nausea, motion sickness, bloating, inflammation",
+    "Preparation Methods": [
+      "Fresh or dried ginger brewed in teas or food",
+      "Used in candies or decoctions"
+    ],
+    "Safety Warnings": "Generally safe; high supplemental doses may increase bleeding risk",
+    "References": ["PubMed", "Plants for a Future"]
+  },
+  {
+    "Common Name": "Globe Amarnath",
+    "Scientific Name": "Gomphrena globosa",
+    "Uses": "Herbal tea; anti-inflammatory",
+    "Treats": "Cough, bronchitis, sinusitis, cholesterol, diabetes, blood pressure support",
+    "Preparation Methods": [
+      "Dried flowers infused in hot water to make tea"
+    ],
+    "Safety Warnings": "Generally safe as tea",
+    "References": ["Ayurvedic texts", "PubMed"]
+  },
+  {
+    "Common Name": "Guava",
+    "Scientific Name": "Psidium guajava",
+    "Uses": "Rich in vitamin C; aids digestion; antimicrobial properties.",
+    "Treats": "Diarrhea, dysentery, cough, skin infections.",
+    "Preparation Methods": [
+      "Boil young leaves in water; use as a tea for digestive issues.",
+      "Crush leaves; apply topically for skin wounds."
+    ],
+    "Safety Warnings": "Generally safe; excessive consumption may cause constipation.",
+    "References": ["Healthline", "PMC"]
+  },
+  {
+    "Common Name": "Henna",
+    "Scientific Name": "Lawsonia inermis",
+    "Uses": "Used for body art; antimicrobial and anti-inflammatory properties.",
+    "Treats": "Skin conditions, headaches, jaundice.",
+    "Preparation Methods": [
+      "Crush leaves; apply paste to skin for cooling effect.",
+      "Use as a poultice for headaches."
+    ],
+    "Safety Warnings": "Avoid use on broken skin; may cause allergic reactions.",
+    "References": ["RxList", "PMC"]
+  },
+  {
+    "Common Name": "Hibiscus",
+    "Scientific Name": "Hibiscus rosa-sinensis",
+    "Uses": "Rich in antioxidants; supports heart health.",
+    "Treats": "Hypertension, high cholesterol, digestive issues.",
+    "Preparation Methods": [
+      "Steep dried flowers in hot water; drink as tea.",
+      "Apply cooled tea topically for skin inflammation."
+    ],
+    "Safety Warnings": "May interact with antihypertensive medications.",
+    "References": ["Verywell Health", "PMC"]
+  },
+  {
+    "Common Name": "Honge",
+    "Scientific Name": "Calophyllum inophyllum",
+    "Uses": "Anti-inflammatory; used in traditional medicine.",
+    "Treats": "Skin diseases, dental caries, inflammation.",
+    "Preparation Methods": [
+      "Extract oil from seeds; apply topically for skin conditions.",
+      "Use oil for massage to alleviate joint pain."
+    ],
+    "Safety Warnings": "Use with caution; may cause skin irritation.",
+    "References": ["ScienceDirect", "PMC"]
+  },
+  {
+    "Common Name": "Insulin Plant",
+    "Scientific Name": "Costus igneus",
+    "Uses": "May help lower blood glucose levels.",
+    "Treats": "Diabetes, bacterial infections.",
+    "Preparation Methods": [
+      "Consume fresh leaves; monitor blood sugar levels.",
+      "Use as a supplement under medical supervision."
+    ],
+    "Safety Warnings": "May cause dizziness and stomach issues; consult healthcare provider.",
+    "References": ["Healthline", "PMC"]
+  },
+  {
+    "Common Name": "Jackfruit",
+    "Scientific Name": "Artocarpus heterophyllus",
+    "Uses": "High in fiber; supports immune health.",
+    "Treats": "Diabetes, skin diseases, wounds.",
+    "Preparation Methods": [
+      "Consume raw or cooked fruit.",
+      "Use leaves and roots in traditional remedies."
+    ],
+    "Safety Warnings": "May cause allergic reactions in sensitive individuals.",
+    "References": ["PMC", "Easy Ayurveda"]
+  },
+  {
+    "Common Name": "Jasmine",
+    "Scientific Name": "Jasminum sambac",
+    "Uses": "Aromatic; used in perfumes; has medicinal properties.",
+    "Treats": "Dysmenorrhea, skin diseases, inflammation.",
+    "Preparation Methods": [
+      "Use flowers in teas for calming effects.",
+      "Apply essential oil topically for skin conditions."
+    ],
+    "Safety Warnings": "May cause skin irritation; conduct patch test.",
+    "References": ["PMC", "SAAP Journals"]
+  },
+  {
+    "Common Name": "Kohlrabi",
+    "Scientific Name": "Brassica oleracea var. gongylodes",
+    "Uses": "Rich in fiber and vitamin C; supports digestion.",
+    "Treats": "Digestive issues, high blood pressure.",
+    "Preparation Methods": [
+      "Consume raw in salads.",
+      "Cooked as a vegetable dish."
+    ],
+    "Safety Warnings": "Generally safe; excessive consumption may cause gas.",
+    "References": ["Healthline", "Verywell Fit"]
+  },
+  {
+    "Common Name": "Lantana",
+    "Scientific Name": "Lantana camara",
+    "Uses": "Aromatic; used in traditional medicine.",
+    "Treats": "Fever, skin conditions.",
+    "Preparation Methods": [
+      "Use leaves in poultices for skin conditions.",
+      "Boil leaves in water; use as a wash for fever."
+    ],
+    "Safety Warnings": "Toxic if ingested; avoid use during pregnancy.",
+    "References": ["PMC", "ScienceDirect"]
+  },
+  {
+    "Common Name": "Lemon",
+    "Scientific Name": "Citrus limon",
+    "Uses": "Rich in vitamin C; supports immune health.",
+    "Treats": "Scurvy, digestive issues, skin conditions.",
+    "Preparation Methods": [
+      "Consume juice; add to water or teas.",
+      "Apply lemon juice topically for skin brightening."
+    ],
+    "Safety Warnings": "May cause skin irritation; avoid sun exposure after topical application.",
+    "References": ["Healthline", "Verywell Fit"]
+  },
+  {
+    "Common Name": "Lemongrass",
+    "Scientific Name": "Cymbopogon citratus",
+    "Uses": "Aromatic; used in teas and culinary dishes.",
+    "Treats": "Digestive issues, high blood pressure.",
+    "Preparation Methods": [
+      "Steep leaves in hot water; drink as tea.",
+      "Use in cooking for flavor."
+    ],
+    "Safety Warnings": "Generally safe; excessive consumption may cause digestive issues.",
+    "References": ["Health.com", "Verywell Health"]
+  },
+  {
+    "Common Name": "Malabar Nut",
+    "Scientific Name": "Justicia adhatoda",
+    "Uses": "Used in traditional medicine for respiratory issues.",
+    "Treats": "Cough, asthma, bronchitis.",
+    "Preparation Methods": [
+      "Boil leaves in water; drink as tea.",
+      "Use juice of leaves for cough relief."
+    ],
+    "Safety Warnings": "May cause drowsiness; avoid use with sedatives.",
+    "References": ["PMC", "Ayurvedic Journal"]
+  },
+  {
+    "Common Name": "Malabar Spinach",
+    "Scientific Name": "Basella alba",
+    "Uses": "Rich in iron and vitamins; supports digestion.",
+    "Treats": "Anemia, constipation.",
+    "Preparation Methods": [
+      "Cook leaves in soups or stews.",
+      "Consume raw in salads."
+    ],
+    "Safety Warnings": "Generally safe; excessive consumption may cause kidney stones.",
+    "References": ["Healthline", "Verywell Fit"]
+  },
+  {
+    "Common Name": "Mango",
+    "Scientific Name": "Mangifera indica",
+    "Uses": "Rich in vitamins; supports immune health.",
+    "Treats": "Digestive issues, skin conditions.",
+    "Preparation Methods": [
+      "Consume ripe fruit.",
+      "Use leaves in traditional remedies."
+    ],
+    "Safety Warnings": "May cause allergic reactions in sensitive individuals.",
+    "References": ["Healthline", "PMC"]
+  },
+  {
+    "Common Name": "Marigold",
+    "Scientific Name": "Tagetes erecta",
+    "Uses": "Aromatic; used in traditional medicine.",
+    "Treats": "Skin conditions, inflammation.",
+    "Preparation Methods": [
+      "Use petals in poultices for skin conditions.",
+      "Boil petals in water; use as a wash for inflammation."
+    ],
+    "Safety Warnings": "May cause skin irritation; conduct patch test.",
+    "References": ["PMC", "ScienceDirect"]
+  },
+  {
+    "Common Name": "Mint",
+    "Scientific Name": "Mentha piperita",
+    "Uses": "Aromatic; used in teas and culinary dishes.",
+    "Treats": "Digestive issues, headaches.",
+    "Preparation Methods": [
+      "Steep leaves in hot water; drink as tea.",
+      "Use in cooking for flavor."
+    ],
+    "Safety Warnings": "Generally safe; excessive consumption may cause digestive issues.",
+    "References": ["Healthline", "Verywell Fit"]
+  },
+  {
+    "Common Name": "Neem",
+    "Scientific Name": "Azadirachta indica",
+    "Uses": "Antimicrobial; used in traditional medicine.",
+    "Treats": "Skin conditions, dental issues.",
+    "Preparation Methods": [
+      "Use leaves in poultices for skin conditions.",
+      "Boil leaves in water; use as a mouthwash."
+    ],
+    "Safety Warnings": "Avoid use during pregnancy; may cause skin irritation.",
+    "References": ["Healthline", "PMC"]
+  },
+  {
+    "Common Name": "Nelavembu",
+    "Scientific Name": "Andrographis paniculata",
+    "Uses": "Used in traditional medicine for fever and infections.",
+    "Treats": "Fever, infections, liver disorders.",
+    "Preparation Methods": [
+      "Boil leaves in water; drink as tea.",
+      "Use powder in traditional remedies."
+    ],
+    "Safety Warnings": "May cause gastrointestinal issues; consult healthcare provider.",
+    "References": ["PMC", "Ayurvedic Journal"]
+  },
+  {
+    "Common Name": "Nerale",
+    "Scientific Name": "Solanum nigrum",
+    "Uses": "Used in traditional medicine for various ailments.",
+    "Treats": "Fever, inflammation, skin conditions.",
+    "Preparation Methods": [
+      "Boil leaves in water; drink as tea.",
+      "Use leaves in poultices for skin conditions."
+    ],
+    "Safety Warnings": "May be toxic if consumed in large quantities; consult healthcare provider.",
+    "References": ["PMC", "ScienceDirect"]
+  },
+  {
+    "Common Name": "Noni",
+    "Scientific Name": "Morinda citrifolia",
+    "Uses": "All parts of the noni plant are used in traditional medicine to treat colds, fevers, and infections.  It is used as a tonic and herbal remedy for general health.",
+    "Treats": "Traditionally used for common cold, bacterial infections, fever, and gastrointestinal complaints.  (Modern claims of curing diseases are unproven.)",
+    "Preparation Methods": "Ripe fruit is used to make juice or fermented products.  Leaves and bark are boiled to make decoctions.  Dried herb powders or extracts are also used.",
+    "Safety Warnings": "Cases of severe liver toxicity have been reported.  Should be avoided in pregnancy.  Contains high potassium – caution in kidney disease or with potassium-sparing diuretics.  Allergy (contact dermatitis) possible.",
+    "References": ["NCCIH monograph on Noni."]
+  },
+  {
+    "Common Name": "Onion",
+    "Scientific Name": "Allium cepa",
+    "Uses": "Widely used as a food and as a traditional remedy.  In herbal use, onion is used as a diuretic, antispasmodic, and expectorant.  It promotes circulation and appetite.",
+    "Treats": "Traditionally used for colds, coughs, asthma (as a warming expectorant), high blood pressure, and skin infections.  Also used topically for earache and wounds.",
+    "Preparation Methods": "Onion juice (often mixed with honey) is taken internally for colds and cough.  Slices fried in ghee are used for cough.  Onion poultice (warm bulb in cloth) is applied to ears for earache.  Eye drops made with onion juice are used for nasal bleeding.",
+    "Safety Warnings": "Generally safe in food amounts.  May cause stomach upset or heartburn in excess.  Rarely causes contact dermatitis.  Contains sulfur compounds – caution if on anticoagulants (may enhance bleeding).",
+    "References": ["Traditional herbal monographs"]
+  },
+  {
+    "Common Name": "Padri",
+    "Scientific Name": "Stereospermum suaveolens",
+    "Uses": "Used in Ayurvedic medicine (as Patali) mainly for digestive and anti-inflammatory purposes.",
+    "Treats": "Traditionally used for indigestion, flatulence, inflammation, fever, cough, and edema.  It is considered a blood purifier and febrifuge in folk use.",
+    "Preparation Methods": "Decoction of the bark or roots is used internally for digestive or fever complaints; oil from the bark is used for pain relief.",
+    "Safety Warnings": "No well-documented toxicity data.  Use traditional doses; avoid in pregnancy due to lack of data.",
+    "References": ["Traditional Ayurvedic texts"]
+  },
+  {
+    "Common Name": "Spinach (Palak)",
+    "Scientific Name": "Spinacia oleracea",
+    "Uses": "Widely eaten as a nutritious vegetable; rich in vitamins (A, C, K) and iron.  Traditionally used as a blood-building tonic and for eye health.",
+    "Treats": "Used for anemia (iron content), poor digestion, and edema.  Leaf paste is sometimes used for eye inflammation and skin conditions.",
+    "Preparation Methods": "Leaves are eaten cooked or raw in salads.  Juice is consumed for detox.  Paste is applied topically for wounds or inflammation.",
+    "Safety Warnings": "High in oxalates; excessive consumption may contribute to kidney stones.  May interfere with blood thinners (vitamin K content).",
+    "References": ["Nutrition and herbal compendia"]
+  },
+  {
+    "Common Name": "Papaya",
+    "Scientific Name": "Carica papaya",
+    "Uses": "Fruit, leaves, seeds and latex are used medicinally.  Aids digestion (papain enzyme), acts as laxative, diuretic and anti-inflammatory.  Papaya leaf juice is used to increase platelet count in dengue.",
+    "Treats": "Traditionally used for constipation, dyspepsia, helminthic infections, dengue fever (leaf juice to raise platelets), and skin ailments like eczema and ringworm.",
+    "Preparation Methods": "Ripe fruit pulp is eaten or made into juice to relieve constipation.  Raw papaya latex (milky sap) is applied to ulcers and insect bites.  Leaf juice is drunk for fever and dengue.  Papaya seed powder is used as vermifuge.",
+    "Safety Warnings": "Excessive use can cause digestive upset (loose motions).  Latex (unripe fruit sap) may irritate skin or mucosa; avoid if pregnant (may cause uterine contractions).  People with latex allergy should exercise caution.",
+    "References": ["Tata 1mg Ayurvedic compendium"]
+  },
+  {
+    "Common Name": "Parijatha (Coral Jasmine)",
+    "Scientific Name": "Nyctanthes arbor-tristis",
+    "Uses": "Leaves and flowers are used in Ayurveda as a bitter tonic and febrifuge.  The plant is used for various traditional remedies.",
+    "Treats": "Traditionally used for constipation, intestinal worms, piles (hemorrhoids), sciatica, poisoning, alopecia and fevers.  Bitter leaf extract is given for fever and skin disorders.",
+    "Preparation Methods": "Decoction of leaves (bitter extract) is taken for gastrointestinal and fever complaints.  Leaf juice may be applied to skin wounds.  Flowers are used in paste or oil for scalp and skin applications.",
+    "Safety Warnings": "Generally safe; no major toxicities documented in traditional use.  Avoid excessive doses during pregnancy (lack of data).",
+    "References": ["Ayurvedic pharmacopeia"]
+  },
+  {
+    "Common Name": "Pea",
+    "Scientific Name": "Pisum sativum",
+    "Uses": "Eaten as a nutritious legume (rich in protein and fiber).  In folk medicine, used as a mild digestive tonic and nutritive food.",
+    "Treats": "Traditionally, pea soup or broth is used to soothe coughs and cold symptoms (warm fluid).  High fiber content supports digestion and lowers cholesterol.",
+    "Preparation Methods": "Cooked peas are eaten as a vegetable or added to soups and stews.  Pea sprouts may be taken for added nutrients.",
+    "Safety Warnings": "Generally safe as food; raw peas contain lectins so they should be cooked.  Rarely causes allergy (legume family).",
+    "References": ["Nutritional herbal references"]
+  },
+  {
+    "Common Name": "Black Pepper",
+    "Scientific Name": "Piper nigrum",
+    "Uses": "Used as a spice and in Ayurveda as a carminative and bioavailability enhancer.  Known for digestive stimulant and warming properties.",
+    "Treats": "Traditionally used for indigestion, loss of appetite, flatulence; also as an anthelmintic to expel intestinal worms.  Combined with other herbs to relieve respiratory catarrh.",
+    "Preparation Methods": "Powdered pepper is used in food or taken with warm water for digestion.  Decoction of peppercorns used for respiratory congestion.  Pepper-infused oil or plaster may be applied for aches.",
+    "Safety Warnings": "Hot and irritant – avoid in peptic ulcer or gastritis.  Not recommended in large doses in pregnancy.  Piperine (in pepper) can alter drug absorption – use with caution if on medications.",
+    "References": ["Health Canada Black Pepper Monograph"]
+  },
+  {
+    "Common Name": "Pomegranate",
+    "Scientific Name": "Punica granatum",
+    "Uses": "Rich in antioxidants (polyphenols); used to reduce oxidative stress and as a general tonic.  Fruit rind is astringent and used for its tannins.",
+    "Treats": "Traditionally used for diarrhea, dysentery, and intestinal parasites (tannic acids in rind); also for blood pressure and heart health (juice lowers LDL).",
+    "Preparation Methods": "Fresh fruit is eaten or juice is drunk for health benefits.  Dried and powdered rind is made into decoction or lozenges for diarrhea.  Topical pastes from seeds or peel applied to wounds.",
+    "Safety Warnings": "Generally safe as food.  Excessive juice intake may interact with some medications (like grapefruit).  Tannins can cause mild constipation if overused.",
+    "References": ["Health Canada Pomegranate Monograph"]
+  },
+  {
+    "Common Name": "Pumpkin",
+    "Scientific Name": "Cucurbita maxima (or C. pepo)",
+    "Uses": "Nutritional food; seeds are known in folk medicine as anthelmintic.  Fruit is demulcent (soothing) and diuretic.",
+    "Treats": "Pumpkin seeds are used to expel tapeworms and other intestinal parasites.  Seed oil is used for urinary disorders and prostate health (nocturia).  Flesh is used for edema and digestive support.",
+    "Preparation Methods": "Raw or roasted pumpkin seeds are eaten or ground for worms.  Seed oil is taken orally for bladder issues.  Pumpkin flesh is cooked or juiced for edema or digestive tonics.",
+    "Safety Warnings": "Generally safe.  Seeds can be allergenic in sensitive individuals.  Consume in moderation if on blood thinners (vitamin K content).",
+    "References": ["Research on Cucurbita seeds"]
+  },
+  {
+    "Common Name": "Radish",
+    "Scientific Name": "Raphanus sativus",
+    "Uses": "Used as a warming food and digestive aid; roots are carminative and mildly diuretic.",
+    "Treats": "Traditionally used for coughs and colds (warming expectorant), digestive issues (stimulating appetite), and constipation.  White radish (Daikon) is used for asthma and bronchitis.",
+    "Preparation Methods": "Fresh radish juice is taken for respiratory issues.  Cooked radish used in meals.  Seed oil (Raphani oil) is used for joint pain (tribal remedy).",
+    "Safety Warnings": "Contains oxalates – avoid large amounts if prone to kidney stones.  Raw radish can irritate the stomach or thyroid in excess.",
+    "References": ["Traditional medicinal plant sources"]
+  },
+  {
+    "Common Name": "Sampige (Champak)",
+    "Scientific Name": "Magnolia champaca",
+    "Uses": "Various parts are medicinal: the bark is a febrifuge; seeds yield an antibacterial oil; flowers, leaves and fruit are used for digestive and skin issues.",
+    "Treats": "Bark decoction is used to reduce fever.  Flowers and fruits are used for dyspepsia and nausea.  Leaves are used against colic and joint pain.  Seeds are applied on cracked skin and abscesses.  Seed oil is used topically for bacterial infections",
+    "Preparation Methods": "Bark decoction taken for fever; flower infusion for skin and digestive use; poultice of bark for swellings; seed oil applied on skin lesions.",
+    "Safety Warnings": "No major toxicity known; topical seed oil may cause mild skin irritation in sensitive individuals.",
+    "References": ["Useful Tropical Plants – Magnolia champaca."]
+  },
+  {
+    "Common Name": "Sapota (Chikoo)",
+    "Scientific Name": "Manilkara zapota",
+    "Uses": "Fruit is nutritious and soothing.  Leaves and bark have medicinal properties: leaf decoction is taken for fever and bleeding, bark is astringent and febrifuge",
+    "Treats": "Leaf decoction is used for fever, hemorrhage, and skin ulcers.  Bark is taken for high fever and to tone the system.  Flowers are used in postpartum care powders.",
+    "Preparation Methods": "Ripe fruit eaten or made into sherbet for nutrition.  Decoction of leaves is drunk for fever or applied to wounds.  Bark extract taken for severe fever.",
+    "Safety Warnings": "Generally safe when eaten as food.  Seeds contain saponins and should not be eaten (they are mildly toxic).",
+    "References": ["Useful Tropical Plants – Manilkara zapota."]
+  },
+  {
+    "Common Name": "Seethaashoka",
+    "Scientific Name": "Saraca asoca",
+    "Uses": "Bark is used as an astringent uterine tonic in Ayurveda.",
+    "Treats": "Used to treat heavy or irregular menstrual bleeding, dysmenorrhea, and leucorrhea.  Also used for uterine and ovarian disorders and as a blood purifier.",
+    "Preparation Methods": "Decoction of the bark (often standardized as Ashokarishta) is taken internally for gynecological issues.  Flowers or leaves may be used in herbal formulations.",
+    "Safety Warnings": "Generally safe in traditional doses.  Should be used under supervision in pregnancy due to uterine effects.",
+    "References": ["Ayurvedic pharmacopoeia"]
+  },
+  {
+    "Common Name": "Seethapala (Custard Apple)",
+    "Scientific Name": "Annona squamosa",
+    "Uses": "Edible fruit with astringent, nutritive properties.  Leaves and seeds are medicinal: leaves are anti-diarrheal, seeds are used externally.",
+    "Treats": "Unripe fruit and leaves are used for diarrhea and dysentery (astringent tannins).  Leaves decoction for stomach ulcers; seed powder for head lice",
+    "Preparation Methods": "Fruit pulp is eaten when ripe.  Leaf decoction is used for gastrointestinal ailments and skin inflammations.  Seeds ground into powder and applied for lice and scabies.",
+    "Safety Warnings": "Seeds contain alkaloids and should not be ingested; fruit and leaves are safe in normal amounts.",
+    "References": ["PMC – Annona squamosa traditional uses."]
+  },
+  {
+    "Common Name": "Tamarind",
+    "Scientific Name": "Tamarindus indica",
+    "Uses": "Fruit pulp is a traditional cooling laxative and digestive agent; used as mild laxative and hepatic stimulant.",
+    "Treats": "Used for constipation, fever, jaundice, and liver disorders; fruit is used for dyspepsia and joint pains.",
+    "Preparation Methods": "Tamarind pulp is eaten raw or in a drink to relieve constipation and fever.  Leaf and bark decoction used as febrifuge and for scorpion or snake bites.",
+    "Safety Warnings": "Fruit is generally safe; may erode tooth enamel (high acidity).  Excess can cause diarrhea.  Not recommended in large quantities during pregnancy (high laxative effect).",
+    "References": ["Ethnobotanical sources"]
+  },
+  {
+    "Common Name": "Taro",
+    "Scientific Name": "Colocasia esculenta",
+    "Uses": "Starchy root vegetable (food); leaves and corms used as poultices and for soothing inflammation.",
+    "Treats": "Traditionally used for diarrhea (leaf decoction) and dysentery; leaves pounded into paste and applied for skin and joint inflammation.",
+    "Preparation Methods": "Corms must be cooked and are eaten boiled or roasted.  Leaves are cooked or pounded and applied as poultice on ulcers or insect bites.",
+    "Safety Warnings": "Raw plant contains calcium oxalate crystals which can irritate mouth and throat; cooking destroys irritants.  Do not eat raw.",
+    "References": ["Traditional herbal compendia"]
+  },
+  {
+    "Common Name": "Tecoma",
+    "Scientific Name": "Tecoma stans",
+    "Uses": "Herb used in folk medicine for its bitter properties; considered a general tonic.",
+    "Treats": "Traditionally used to lower blood sugar (diabetes), treat digestive and urinary disorders, and as a diuretic and antihelminthic.",
+    "Preparation Methods": "Decoction of leaves or flowers is taken for diabetes and jaundice.  Infusion used for fevers.",
+    "Safety Warnings": "Limited safety data; use traditional doses.  Not recommended during pregnancy (lacking data).",
+    "References": ["Ethnobotanical literature"]
+  },
+  {
+    "Common Name": "Thumba",
+    "Scientific Name": "Hydnocarpus wightiana",
+    "Uses": "Seeds produce ‘Thumba oil’ (a type of chaulmoogra oil) used in traditional medicine, especially Ayurveda.",
+    "Treats": "Primarily used for skin diseases, notably leprosy and psoriasis, and for rheumatic pains.  It is a bitter, acrid oil.",
+    "Preparation Methods": "Oil is extracted from the seeds (thumba oil) and applied topically.  In old traditional systems, oil was given orally in controlled doses for leprosy.",
+    "Safety Warnings": "Oil can cause nausea, vomiting and burning sensation; not to be ingested without medical supervision.  Avoid contact with eyes and mucous membranes.",
+    "References": ["Ayurvedic sources on chaulmoogra oil"]
+  },
+  {
+    "Common Name": "Tomato",
+    "Scientific Name": "Solanum lycopersicum",
+    "Uses": "Widely used vegetable; rich in lycopene (antioxidant) and vitamins.  Traditionally used as blood purifier and digestive aid.",
+    "Treats": "Used for high blood pressure, high cholesterol (antioxidant effect), and digestive health; also applied topically for sunburn relief.",
+    "Preparation Methods": "Eaten raw in salads or cooked; juice or paste applied to skin for cooling or soothing burns.",
+    "Safety Warnings": "Generally safe.  Green parts contain solanine (mild toxin) – avoid eating unripe green tomatoes.  Contact dermatitis may occur in sensitive people.",
+    "References": ["Nutrition and herbal sources"]
+  },
+  {
+    "Common Name": "Tulsi (Holy Basil)",
+    "Scientific Name": "Ocimum sanctum",
+    "Uses": "Considered an adaptogen and general tonic in Ayurveda.  Used for its anti-inflammatory, antioxidant and antimicrobial properties.",
+    "Treats": "Used for respiratory ailments (cough, cold, asthma), fever, stress, diabetes, and skin conditions.  It is a well-known immunity booster.",
+    "Preparation Methods": "Fresh leaves are chewed or brewed into tea.  Leaf juice or decoction is given for cough and fever.  Oil is used for skin infections.",
+    "Safety Warnings": "Generally safe; may slow blood clotting (caution with anticoagulants) and lower blood sugar.  High doses in pregnancy not recommended.",
+    "References": ["Research studies on O. sanctum"]
+  },
+  {
+    "Common Name": "Turmeric",
+    "Scientific Name": "Curcuma longa",
+    "Uses": "Roots (rhizomes) used for their anti-inflammatory, antioxidant and antiseptic properties.  In Ayurveda used as blood purifier and for wound healing.",
+    "Treats": "Used for arthritis, digestive disorders, skin diseases,as a liver tonic,  It is also used topically on wounds and burns.",
+    "Preparation Methods": "Fresh or dried rhizome is used as spice or paste.  Powder is taken with warm milk or honey for colds.  Paste of turmeric is applied to sores and ulcers.",
+    "Safety Warnings": "Safe in culinary amounts.  Large doses can cause stomach upset, nausea.  May exacerbate gallstones or bile obstruction.  Watch for interactions (e.g. anticoagulants).",
+    "References": ["WHO monograph on Curcuma longa"]
+  },
+  {
+    "Common Name": "Ashoka",
+    "Scientific Name": "Saraca asoca",
+    "Uses": "Essentially the same herb as Sita-Ashoka above.  Bark is a potent uterine tonic and astringent in Ayurveda.",
+    "Treats": "Used in heavy menstrual bleeding, dysmenorrhea, and other uterine disorders; also as a general blood purifier and in skin ailments.",
+    "Preparation Methods": "Same as Seethaashoka – bark decoction (Ashokarishta) internally, bark powders in herbal formulas.",
+    "Safety Warnings": "Refer to Seethaashoka (above).",
+    "References": ["Ayurvedic classics"]
+  },
+  {
+    "Common Name": "Camphor",
+    "Scientific Name": "Cinnamomum camphora",
+    "Uses": "Topical analgesic, rubefacient and decongestant.  Used in liniments, balms and vapor rubs for its warming effect and strong aroma.",
+    "Treats": "Applied on the skin for muscle pain, joint pain, and itching; inhaled (steam) for chest congestion and cough.  Also used to relieve headaches with aromatherapy.",
+    "Preparation Methods": "Camphor oil or ointment (<5% concentration) is applied topically.  Small camphor cubes are burned (fumigation) for decongestion.  Camphor is an ingredient in vapor rubs and lotions.",
+    "Safety Warnings": "Highly toxic if ingested (especially in children).  Do not apply to broken skin or use near eyes.  Avoid on newborns/infants.  Use only clear/white camphor oil in low concentration.",
+    "References": ["Medical News Today – Camphor uses"]
+  },
+  {
+    "Common Name": "Kamakasturi (Thai Basil)",
+    "Scientific Name": "Ocimum basilicum var. thyrsiflora",
+    "Uses": "Aromatic herb used as a spice.  In herbal use, similar to holy basil – considered carminative and digestive.",
+    "Treats": "Traditionally used for digestive discomfort, cough, asthma, and as a carminative.  Also valued for its calming aroma (stress relief).",
+    "Preparation Methods": "Leaves are used in cooking and teas.  Leaves and flowers are used fresh in herbal preparations.  Oil may be used in aromatherapy.",
+    "Safety Warnings": "Generally regarded as safe (a form of basil).  No specific toxicity known in normal culinary or medicinal use.",
+    "References": ["Folk medicine sources"]
+  },
+  {
+    "Common Name": "Kepala (Jungle Geranium)",
+    "Scientific Name": "Ixora coccinea",
+    "Uses": "In Ayurveda it is regarded as astringent, antiseptic and blood-purifier.  Used as a sedative and antidiarrheal.",
+    "Treats": "Traditionally used for diarrhea and dysentery (roots and flowers in decoction); catarrh and sore throat (flowers); leucorrhea and gonorrhea (flowers); skin infections (leaves for scabies).",
+    "Preparation Methods": "Decoction of roots or whole plant for gastrointestinal troubles.  Leaf paste for skin infections.  Flowers infused in water for bathing infants (prevent skin disease).",
+    "Safety Warnings": "No major toxicity reported.  Use in moderation; may cause mild stomach upset if overused.",
+    "References": ["GlobinMed – Ixora coccinea review"]
+  }
+]

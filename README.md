@@ -40,9 +40,9 @@ The application also allows users to search medicinal plants by plant name or by
 
 ### Search Plants
 
-| By Plant | By Symptom |
-|----------|------------|
-| ![](screenshots/by_plant.jpg) | ![](screenshots/by_symptom.jpg) |
+| By Plant | History                      |
+|----------|------------------------------|
+| ![](screenshots/by_plant.jpg) | ![](screenshots/history.jpg) |
 
 ---
 
@@ -62,11 +62,18 @@ The application also allows users to search medicinal plants by plant name or by
 
 ---
 
-### Prediction History
+[//]: # (### Prediction History)
 
-![](screenshots/history.jpg)
+[//]: # ()
+[//]: # (![]&#40;screenshots/history.jpg&#41;)
 
 ---
+
+### Search Plants by Symptoms
+
+| By symptoms_1                     | By Symptom_2                      |
+|-----------------------------------|-----------------------------------|
+| ![](screenshots/by_symptom_1.jpg) | ![](screenshots/by_symptom_2.jpg) |
 
 ## 🏗 System Architecture
 
@@ -167,8 +174,6 @@ flutter run
 ## 👨‍💻 Developer
 
 **Harishit**
-*Durga Prasad*
-*jayachandra*
 
 GitHub:
 https://github.com/Harishit-123

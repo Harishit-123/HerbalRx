@@ -1,16 +1,182 @@
-# app
+# 🌿 HerbalRx
 
-A new Flutter project.
+> AI-Powered Medicinal Plant Identification and Herbal Remedy Recommendation System using Flutter, TensorFlow Lite and Firebase.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📖 Overview
 
-A few resources to get you started if this is your first Flutter project:
+HerbalRx is a cross-platform Flutter application that identifies medicinal plants from leaf images using a TensorFlow Lite deep learning model. After identifying the plant, the application provides medicinal uses, preparation methods, symptoms treated, safety warnings, and scientific information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The application also allows users to search medicinal plants by plant name or by symptoms and maintains a personalized prediction history using Firebase.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- 🌿 AI-based medicinal plant identification
+- 📷 Camera & Gallery image support
+- 🔊 Text-to-Speech for prediction and plant information
+- 🔍 Search medicinal plants by name
+- ❤️ Search plants by symptoms
+- 📚 Detailed medicinal information
+- ⚠ Safety warnings and precautions
+- 📜 Preparation methods
+- 📈 Prediction confidence score
+- ☁ Firebase Authentication
+- 🔥 Firestore prediction history
+- 📱 Modern Flutter UI
+
+---
+
+## 🖼 Application Screens
+
+### Login & Signup
+
+| Login | Signup |
+|-------|--------|
+| ![](screenshots/login.png) | ![](screenshots/signup.png) |
+
+---
+
+### Search Plants
+
+| By Plant | By Symptom |
+|----------|------------|
+| ![](screenshots/by_plant.png) | ![](screenshots/by_symptom.png) |
+
+---
+
+### AI Plant Identification
+
+| Before Prediction | Prediction |
+|------------------|------------|
+| ![](screenshots/identify_empty.png) | ![](screenshots/prediction.png) |
+
+---
+
+### Plant Details
+
+| Information | Preparation & Safety |
+|-------------|----------------------|
+| ![](screenshots/details1.png) | ![](screenshots/details2.png) |
+
+---
+
+### Prediction History
+
+![](screenshots/history.png)
+
+---
+
+## 🏗 System Architecture
+
+![](screenshots/architecture.png)
+
+---
+
+## 🤖 Machine Learning
+
+- Model: TensorFlow Lite
+- Image Size: 224×224
+- Dataset: Medicinal Plant Leaf Dataset
+- Classes: 80 Plant Species
+- Framework: TensorFlow
+- Mobile Inference: TensorFlow Lite
+
+---
+
+## 🛠 Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Mobile App |
+| Dart | Programming Language |
+| TensorFlow Lite | Plant Identification |
+| Firebase Authentication | User Login |
+| Cloud Firestore | Plant & History Storage |
+| Firebase Storage | Image Storage |
+| JSON Dataset | Offline Plant Information |
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+│
+├── screens/
+├── widgets/
+├── services/
+├── models/
+├── utils/
+│
+assets/
+│
+├── plants.json
+├── images/
+├── ml_model/
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Harishit-123/HerbalRx.git
+```
+
+Move into project
+
+```bash
+cd HerbalRx
+```
+
+Install dependencies
+
+```bash
+flutter pub get
+```
+
+Run the application
+
+```bash
+flutter run
+```
+
+---
+
+## 📊 Dataset
+
+- 80 Medicinal Plant Classes
+- Leaf Image Dataset
+- Offline medicinal information stored in JSON
+- TensorFlow Lite model for mobile inference
+
+---
+
+## 🔮 Future Enhancements
+
+- Disease Detection
+- Plant Care Recommendations
+- Multilingual Support
+- Doctor Consultation
+- GPS-based Plant Identification
+- Cloud AI Model Updates
+
+---
+
+## 👨‍💻 Developer
+
+**Harishit**
+
+GitHub:
+https://github.com/Harishit-123
+
+---
+
+## 📄 License
+
+This project is developed for educational and research purposes.

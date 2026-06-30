@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD1nEcg3pKIgnD1KvOSbO4RXX-JC2528qc',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:98593418263:web:9e935b36befdff360f0052',
     messagingSenderId: '98593418263',
     projectId: 'fresh-remedy-app',

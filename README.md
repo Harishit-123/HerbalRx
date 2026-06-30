@@ -1,6 +1,6 @@
 # 🌿 HerbalRx
 
-> AI-Powered Medicinal Plant Identification and Herbal Remedy Recommendation System using Flutter, TensorFlow Lite and Firebase.
+>Herbal RX: Herbal Remedy Extraction and Recommendation Using Deep Learning and Image Processing
 
 ---
 
@@ -14,7 +14,6 @@ The application also allows users to search medicinal plants by plant name or by
 
 ## ✨ Features
 
-- 🌿 AI-based medicinal plant identification
 - 📷 Camera & Gallery image support
 - 🔊 Text-to-Speech for prediction and plant information
 - 🔍 Search medicinal plants by name
@@ -33,9 +32,9 @@ The application also allows users to search medicinal plants by plant name or by
 
 ### Login & Signup
 
-| Login | Signup |
-|-------|--------|
-| ![](screenshots/login.png) | ![](screenshots/signup.png) |
+| Login                      | Signup                       |
+|----------------------------|------------------------------|
+| ![](screenshots/login.jpg) | ![](screenshots/sign_up.jpg) |
 
 ---
 
@@ -43,7 +42,7 @@ The application also allows users to search medicinal plants by plant name or by
 
 | By Plant | By Symptom |
 |----------|------------|
-| ![](screenshots/by_plant.png) | ![](screenshots/by_symptom.png) |
+| ![](screenshots/by_plant.jpg) | ![](screenshots/by_symptom.jpg) |
 
 ---
 
@@ -51,27 +50,27 @@ The application also allows users to search medicinal plants by plant name or by
 
 | Before Prediction | Prediction |
 |------------------|------------|
-| ![](screenshots/identify_empty.png) | ![](screenshots/prediction.png) |
+| ![](screenshots/identify.jpg) | ![](screenshots/prediction.jpg) |
 
 ---
 
 ### Plant Details
 
-| Information | Preparation & Safety |
-|-------------|----------------------|
-| ![](screenshots/details1.png) | ![](screenshots/details2.png) |
+| Information                    | Preparation & Safety           |
+|--------------------------------|--------------------------------|
+| ![](screenshots/details_1.jpg) | ![](screenshots/details_2.jpg) |
 
 ---
 
 ### Prediction History
 
-![](screenshots/history.png)
+![](screenshots/history.jpg)
 
 ---
 
 ## 🏗 System Architecture
 
-![](screenshots/architecture.png)
+![](screenshots/sys_architecture.png)
 
 ---
 
@@ -159,18 +158,17 @@ flutter run
 
 ## 🔮 Future Enhancements
 
-- Disease Detection
-- Plant Care Recommendations
-- Multilingual Support
-- Doctor Consultation
-- GPS-based Plant Identification
-- Cloud AI Model Updates
+- integration of Explainable AI features such as Grad-CAM or visual heatmaps.
+- expanding the model to recognize various plant parts such as flowers, stems, bark, and fruits
+- live camera-based detection with bounding boxes
 
 ---
 
 ## 👨‍💻 Developer
 
 **Harishit**
+*Durga Prasad*
+*jayachandra*
 
 GitHub:
 https://github.com/Harishit-123

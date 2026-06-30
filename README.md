@@ -1,132 +1,194 @@
+<div align="center">
+
 # 🌿 HerbalRx
 
->Herbal RX: Herbal Remedy Extraction and Recommendation Using Deep Learning and Image Processing
+### AI-Powered Medicinal Plant Identification & Herbal Remedy Recommendation System
+
+Identify medicinal plants using Deep Learning and TensorFlow Lite, explore their medicinal properties, search remedies by symptoms, and securely maintain prediction history using Firebase.
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-FF6F00?style=for-the-badge&logo=tensorflow)
+![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?style=for-the-badge&logo=firebase)
+![Platform](https://img.shields.io/badge/Platform-Android-success?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📖 Overview
+# 📖 Overview
 
-HerbalRx is a cross-platform Flutter application that identifies medicinal plants from leaf images using a TensorFlow Lite deep learning model. After identifying the plant, the application provides medicinal uses, preparation methods, symptoms treated, safety warnings, and scientific information.
+**HerbalRx** is a cross-platform Flutter application that identifies medicinal plants from leaf images using a TensorFlow Lite deep learning model. After identification, the application provides medicinal uses, preparation methods, symptoms treated, safety precautions, and scientific information.
 
-The application also allows users to search medicinal plants by plant name or by symptoms and maintains a personalized prediction history using Firebase.
+The application also supports searching medicinal plants by plant name or symptoms and securely stores user prediction history using Firebase Authentication and Cloud Firestore.
 
 ---
 
-## ✨ Features
+# 🚀 Highlights
 
-- 📷 Camera & Gallery image support
-- 🔊 Text-to-Speech for prediction and plant information
-- 🔍 Search medicinal plants by name
-- ❤️ Search plants by symptoms
+- 🌿 AI-powered medicinal plant identification
+- 📷 Camera and Gallery image support
+- 🔍 Search medicinal plants by plant name
+- ❤️ Search medicinal plants by symptoms
+- 🔊 Text-to-Speech support
 - 📚 Detailed medicinal information
 - ⚠ Safety warnings and precautions
 - 📜 Preparation methods
-- 📈 Prediction confidence score
+- 📈 AI confidence score
 - ☁ Firebase Authentication
 - 🔥 Firestore prediction history
-- 📱 Modern Flutter UI
+- 📱 Beautiful Material Design interface
 
 ---
 
-## 🖼 Application Screens
+# ✨ Features
 
-### Login & Signup
+| Feature | Description |
+|----------|-------------|
+| 🌿 Plant Identification | Identifies medicinal plants using TensorFlow Lite |
+| 📷 Image Capture | Supports Camera and Gallery |
+| 🔍 Plant Search | Search medicinal plants by name |
+| ❤️ Symptom Search | Discover plants based on symptoms |
+| 📚 Plant Details | Scientific name, medicinal uses, treatments and preparation methods |
+| 🔊 Voice Assistant | Reads prediction and plant details using Text-to-Speech |
+| 📈 Confidence Score | Displays AI prediction confidence |
+| ☁ Firebase | Authentication and prediction history |
+| 📱 Flutter UI | Modern, responsive and user-friendly interface |
 
-| Login                      | Signup                       |
-|----------------------------|------------------------------|
+---
+
+# 📱 Application Screens
+
+## 🔐 Authentication
+
+| Login | Signup |
+|-------|--------|
 | ![](screenshots/login.jpg) | ![](screenshots/sign_up.jpg) |
 
 ---
 
-### Search Plants
+## 🌿 Search by Plant Name
 
-| By Plant | History                      |
-|----------|------------------------------|
+| Plant Search | Prediction History |
+|--------------|-------------------|
 | ![](screenshots/by_plant.jpg) | ![](screenshots/history.jpg) |
 
 ---
 
-### AI Plant Identification
+## 🤖 AI Plant Identification
 
-| Before Prediction | Prediction |
-|------------------|------------|
+| Before Prediction | Prediction Result |
+|------------------|-------------------|
 | ![](screenshots/identify.jpg) | ![](screenshots/prediction.jpg) |
 
 ---
 
-### Plant Details
+## 📚 Plant Information
 
-| Information                    | Preparation & Safety           |
-|--------------------------------|--------------------------------|
+| Scientific Information | Preparation & Safety |
+|------------------------|----------------------|
 | ![](screenshots/details_1.jpg) | ![](screenshots/details_2.jpg) |
 
 ---
 
-[//]: # (### Prediction History)
+## ❤️ Search by Symptoms
 
-[//]: # ()
-[//]: # (![]&#40;screenshots/history.jpg&#41;)
-
----
-
-### Search Plants by Symptoms
-
-| By symptoms_1                     | By Symptom_2                      |
-|-----------------------------------|-----------------------------------|
+| Symptom Search | Search Results |
+|---------------|----------------|
 | ![](screenshots/by_symptom_1.jpg) | ![](screenshots/by_symptom_2.jpg) |
 
-## 🏗 System Architecture
-
-![](screenshots/sys_architecture.png)
-
 ---
 
-## 🤖 Machine Learning
+# 🏗 System Architecture
 
-- Model: TensorFlow Lite
-- Image Size: 224×224
-- Dataset: Medicinal Plant Leaf Dataset
-- Classes: 80 Plant Species
-- Framework: TensorFlow
-- Mobile Inference: TensorFlow Lite
+<p align="center">
+<img src="screenshots/sys_architecture.png" width="100%">
+</p>
 
----
-
-## 🛠 Technology Stack
-
-| Technology | Purpose |
-|------------|---------|
-| Flutter | Mobile App |
-| Dart | Programming Language |
-| TensorFlow Lite | Plant Identification |
-| Firebase Authentication | User Login |
-| Cloud Firestore | Plant & History Storage |
-| Firebase Storage | Image Storage |
-| JSON Dataset | Offline Plant Information |
-
----
-
-## 📂 Project Structure
+### Workflow
 
 ```
+User
+   │
+   ▼
+Flutter Mobile Application
+   │
+   ├── Search by Plant
+   ├── Search by Symptom
+   └── Capture Leaf Image
+            │
+            ▼
+ TensorFlow Lite Model
+            │
+            ▼
+  Plant Prediction
+            │
+            ▼
+Retrieve Plant Details
+(Local JSON Dataset)
+            │
+            ▼
+Display Information
+            │
+            ▼
+Store History in Firebase
+```
+
+---
+
+# 🤖 Machine Learning
+
+| Property | Value |
+|----------|-------|
+| Model | TensorFlow Lite |
+| Framework | TensorFlow |
+| Dataset | Medicinal Plant Leaf Dataset |
+| Classes | 80 Plant Species |
+| Input Size | 224 × 224 |
+| Output | Plant Name + Confidence Score |
+| Inference | On-device (Offline) |
+
+---
+
+# 🛠 Technology Stack
+
+| Category | Technology |
+|-----------|------------|
+| Mobile Framework | Flutter |
+| Programming Language | Dart |
+| Machine Learning | TensorFlow Lite |
+| Authentication | Firebase Authentication |
+| Database | Cloud Firestore |
+| Cloud Storage | Firebase Storage |
+| Offline Dataset | JSON |
+| IDE | Android Studio / VS Code |
+
+---
+
+# 📂 Project Structure
+
+```text
 lib/
 │
-├── screens/
-├── widgets/
-├── services/
 ├── models/
+├── screens/
+├── services/
+├── widgets/
 ├── utils/
 │
 assets/
 │
-├── plants.json
 ├── images/
 ├── ml_model/
+├── medicinal_plants_data.json
+│
+android/
+ios/
 ```
 
 ---
 
-## 🚀 Installation
+# 🚀 Installation
 
 Clone the repository
 
@@ -134,13 +196,13 @@ Clone the repository
 git clone https://github.com/Harishit-123/HerbalRx.git
 ```
 
-Move into project
+Go to project
 
 ```bash
 cd HerbalRx
 ```
 
-Install dependencies
+Install packages
 
 ```bash
 flutter pub get
@@ -154,32 +216,65 @@ flutter run
 
 ---
 
-## 📊 Dataset
+# 📊 Dataset
 
-- 80 Medicinal Plant Classes
-- Leaf Image Dataset
-- Offline medicinal information stored in JSON
+- Medicinal Plant Leaf Image Dataset
+- 80 Plant Classes
+- Local JSON dataset for offline medicinal information
 - TensorFlow Lite model for mobile inference
 
 ---
 
-## 🔮 Future Enhancements
+# 📈 Project Statistics
 
-- integration of Explainable AI features such as Grad-CAM or visual heatmaps.
-- expanding the model to recognize various plant parts such as flowers, stems, bark, and fruits
-- live camera-based detection with bounding boxes
+| Metric | Value |
+|---------|-------|
+| Platform | Android |
+| Framework | Flutter |
+| Programming Language | Dart |
+| ML Framework | TensorFlow Lite |
+| Plant Classes | 80 |
+| Offline Support | ✅ |
+| Firebase Authentication | ✅ |
+| Firestore Database | ✅ |
+| Firebase Storage | ✅ |
+| Text-to-Speech | ✅ |
 
 ---
 
-## 👨‍💻 Developer
+# 🔮 Future Enhancements
 
-**Harishit**
-
-GitHub:
-https://github.com/Harishit-123
+- 🌸 Support identification using flowers, stems, bark and fruits
+- 🎥 Real-time camera detection with live prediction
+- 🧠 Explainable AI using Grad-CAM visualization
+- 🌍 Multi-language support
+- 🤖 AI chatbot for medicinal guidance
+- ☁ Cloud model updates
+- 📍 GPS-based medicinal plant discovery
+- 👥 Community-contributed medicinal plant database
 
 ---
 
-## 📄 License
+# 👨‍💻 Developer
 
-This project is developed for educational and research purposes.
+## Harishit
+
+B.Tech Student | Flutter Developer | AI & Machine Learning Enthusiast
+
+### Connect with me
+
+GitHub: https://github.com/Harishit-123
+
+---
+
+# 📄 License
+
+This project was developed as an academic major project for educational and research purposes. It demonstrates the integration of Deep Learning, Flutter, TensorFlow Lite, and Firebase for medicinal plant identification and herbal remedy recommendation.
+
+---
+
+<div align="center">
+
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
